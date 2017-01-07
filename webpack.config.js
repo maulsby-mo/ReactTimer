@@ -24,6 +24,7 @@ resolve: {
     Main: 'app/components/Main.jsx',
     Nav: 'app/components/Nav.jsx',
     Countdown: 'app/components/Countdown.jsx',
+    Clock: 'app/components/Clock.jsx',
     Timer: 'app/components/Timer.jsx',
     applicationStyles: 'app/styles/app.scss',
     navStyles: 'app/styles/components/_nav.scss'
