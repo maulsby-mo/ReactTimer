@@ -27,6 +27,7 @@ resolve: {
     Clock: 'app/components/Clock.jsx',
     Timer: 'app/components/Timer.jsx',
     CountdownForm: 'app/components/CountdownForm.jsx',
+    Controls: 'app/components/Controls.jsx',
     applicationStyles: 'app/styles/app.scss',
     navStyles: 'app/styles/components/_nav.scss'
 
